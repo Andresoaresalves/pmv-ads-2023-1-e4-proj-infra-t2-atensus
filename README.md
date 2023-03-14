@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO: Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`DISCIPLINA: Eixo 4 - Projeto: Desenvolvimento de uma Aplicação Distribuída `
 
-`SEMESTRE`
+`4º Período`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A Proposta deste projeto é inovar os atendimentos nos Prontos socorros dos hospitais.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* André Soares Alves da silva
+* Eduardo Lucci Imakawa de andrade
+* Jonatas Tonin Coelho
+* Lívia Cristina Leite Nunes Silva
+* Paulo Vitor Pereira Rocha
+* Tiago Miquéias Viana Rodrigues
 
 ## Orientador
 
-* Nome completo do professor 1
+* Leonardo Vilela Cardoso
 
 ## Instruções de utilização
 
